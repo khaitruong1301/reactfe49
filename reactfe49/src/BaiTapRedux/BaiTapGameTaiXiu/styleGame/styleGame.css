@@ -1,0 +1,12 @@
+@font-face{
+    font-family: 'pony';
+    src: url('./Pony.ttf');
+}
+
+.gameXucXac {
+    background-image: url('./bgGame.png');
+    font-family: 'pony';
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
